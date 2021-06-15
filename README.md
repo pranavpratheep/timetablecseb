@@ -1,2 +1,2 @@
 # timetablecseb
-first html project coded with reenphygeorge
+first html coded with reenphygeorge
